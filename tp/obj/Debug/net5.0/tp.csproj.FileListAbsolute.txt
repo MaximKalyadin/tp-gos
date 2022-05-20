@@ -1,0 +1,16 @@
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.exe
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.deps.json
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.runtimeconfig.json
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.dll
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\ref\tp.dll
+C:\Users\Maxim\source\repos\tp\tp\bin\Debug\net5.0\tp.pdb
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.csproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.dll
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\ref\tp.dll
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.pdb
+C:\Users\Maxim\source\repos\tp\tp\obj\Debug\net5.0\tp.genruntimeconfig.cache
